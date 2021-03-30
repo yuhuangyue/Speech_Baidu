@@ -30,8 +30,8 @@ else:
         # On most other platforms the best timer is time.time()
         timer = time.time
 
-API_KEY = 'WkFNIy3hLlDpxB0fqrPrN9iD'
-SECRET_KEY = 'B057ELQ1Wip6vzOjcNI3aaZLVKeMY46w'
+API_KEY = 'WkF'
+SECRET_KEY = 'B057E'
 
 # 需要识别的文件
 #AUDIO_FILE = '16k.pcm'  # 只支持 pcm/wav/amr 格式，极速版额外支持m4a 格式
